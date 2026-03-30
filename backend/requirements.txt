@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+transformers
+torch
+torchvision
+google-generativeai
+pillow
+requests
+numpy
+scikit-learn
+accelerate
