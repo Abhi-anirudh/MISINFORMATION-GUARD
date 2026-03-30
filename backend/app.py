@@ -24,7 +24,7 @@ from contextlib import asynccontextmanager
 # ── Config ──
 # Change these paths to match your folder structure
 TEXT_MODEL_PATH = "../models/model_v2/model_v2"       # local path
-GEMINI_API_KEY  = "AIzaSyAbl3fmI4WYsqD1YpVgd-3ZuC8a3VbCiiw"  # optional
+GEMINI_API_KEY  = ""  # optional
 USE_LOCAL_LLM   = os.environ.get("USE_LOCAL_LLM", "false").lower() == "true"
 
 # ── Globals ──
